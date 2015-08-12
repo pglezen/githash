@@ -44,6 +44,8 @@ We can see the 6-digit labels approaching a 3% chance of at least
 one collision before reaching 1,000 commits.  A 7-digit label still
 has less than a quarter of a percent.
 
+## 10,000 Commits ##
+
 These graphs are great fun.  I’ll leave you with a final one that
 shows the probability of at least one collision for up to 10,000
 commits!
